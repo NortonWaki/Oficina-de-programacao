@@ -1,0 +1,17 @@
+02) mkdir == criar pasta
+03) mkdir -p == criar arvore de diretorios
+04) rm == deletar arquivo
+    rm -r == deleta diretorio
+05) rm -f == exclui mesmo se nao existir o diretorio(nao da mensagem de erro)
+06) scp -r --> "usuario"@"ip":~/ "diretorio"
+    scp -f --> para baixar aquivos, (-r) para pastas.
+    ssh "usuario"@"ip" --> para entrar no pc do outro 
+07) ls -l
+08) ps -- mostra os processos atuais
+09)ps axu == mostra delhes de usuario no sistema
+10) touch == atualiza data de modificação
+11) man (comando)
+12) cat == abre o arquivo dentro do terminal
+13) cat -b == numera as linhas do arquivos (menos as em branco)
+14) cat -A == mostra detalhadamente os comandos que o usuario realizou
+
