@@ -1,0 +1,13 @@
+[H[2J====================================================================
+
+Usuario: usuario1
+
+UID: 1000
+Nome ou Descrição: usuario1
+Total Usado: 530M total
+
+Ultimo Login:
+Usuario  Porta      IP             Data/Hora
+usuario1 pts/8 192.168.9.73 Sex Mar 16 19:09:28
+
+====================================================================
