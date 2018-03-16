@@ -14,4 +14,31 @@
 12) cat == abre o arquivo dentro do terminal
 13) cat -b == numera as linhas do arquivos (menos as em branco)
 14) cat -A == mostra detalhadamente os comandos que o usuario realizou
-
+15) tac == mostra o conteudo invertido de baixo para cima
+16) tail == mostra só o final do arquivo
+17) head == mostra só o começo do arquivo (head -n1 monstra só a primeira liha)
+18) wc == mostra a quantidade de linhas(l), palavras(w) e caracteres(c)
+19) head -n3 usuarios.txt | wc -w   
+20) sort == organiza em ordem alvabetica
+21) tail /etc/passwd | sort -k3 -t ":"
+22) uniq -u == nao aparece string repetida
+23) uniq -d == mostra só as coisas repetidas
+24) //
+25) uniq -c == mostra quantas veses a string repete 
+26) sort -n ResultadoMega2017 | uniq -c | sort -n | tail -n1
+27) cat usuarios.txt | tr a-z A-Z
+28) cat coisas.txt | tr -d *
+29) cat usuarios.txt | cat -d ":" -f2
+30) tail /etc/passwd | cut -d ":" -f1,5 |tail -n3 | head -n1 | tr -d ","
+31) ANULADA
+32) grep -r Rafael *
+33) grep -A5 = coisas.txt
+34) PESQUISAR
+35) cat usuarios.txt | sed 's/Usuário/*/g'
+36) find ./ -name "*.txt" -exec ls -l {} \;
+37) pipe | ou ls -l > log.out ou ls -l arquivooo.txt 2> log.ou ou ls -l arquivo.txt > log.out 2> log-error.out
+38) env | less 
+39) echo $VARIAVEL
+40) TESTE=VALOR1
+41) bash
+42) env

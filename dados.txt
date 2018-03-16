@@ -1,0 +1,25 @@
+====================================================================
+
+Relatorio da maquina: uninga
+Data/Hora: 19:08:46 -- 16/03/18
+
+====================================================================
+
+Maquina ativa desde: 2018-03-16 18:31:59
+
+Versão do Kernel: #118-Ubuntu
+
+CPUs
+Quantidade de CPUs/Core: 4
+
+Modelo da CPU: Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz
+
+Partições:
+Sist. Arq.      Tam. Usado Disp. Uso% Montado em
+udev            1,9G  4,0K  1,9G   1% /dev
+tmpfs           385M  1,4M  384M   1% /run
+/dev/sda1       455G   10G  422G   3% /
+none            4,0K     0  4,0K   0% /sys/fs/cgroup
+none            5,0M     0  5,0M   0% /run/lock
+none            1,9G  6,4M  1,9G   1% /run/shm
+none            100M   96K  100M   1% /run/user
